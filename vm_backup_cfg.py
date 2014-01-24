@@ -55,7 +55,7 @@ backup_vms = 'none'
 
 
 # VM backup list
-# Only VMs in this list will be backed up when backup_ext='list'
+# Only VMs in this list will be backed up when backup_vms='list'
 
 # Example:
 # vm_backup_list = ('2844954f-966d-3ff4-250b-638249b66313', )
